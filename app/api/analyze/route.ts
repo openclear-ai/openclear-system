@@ -47,9 +47,6 @@ Rules:
           ],
         },
       ],
-      config: {
-        responseMimeType: "application/json",
-      },
     });
 
     // Gemini 有时会返回多余空白，先 trim
