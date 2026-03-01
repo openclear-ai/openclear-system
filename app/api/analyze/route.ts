@@ -48,7 +48,7 @@ Rules:
         },
       ],
       config: {
-        response_mime_type: "application/json",
+        responseMimeType: "application/json",
       },
     });
 
